@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1400210931 source:/home/estalinbenitez/Desktop/Programando en C++/sdlll/Listas_enlasadas/Examen_1_estalinbenitez/main.cpp
+	<iostream>
+	"Animal.h"
+	"Perro.h"
+	"Lora.h"
+	"Canario.h"
+	"Lista.h"
+	<vector>
+
+1400178926 source:/home/estalinbenitez/Desktop/Programando en C++/sdlll/Listas_enlasadas/Examen_1_estalinbenitez/Animal.cpp
+	"Animal.h"
+
+1400178173 /home/estalinbenitez/Desktop/Programando en C++/sdlll/Listas_enlasadas/Examen_1_estalinbenitez/Animal.h
+	<iostream>
+
+1400175599 source:/home/estalinbenitez/Desktop/Programando en C++/sdlll/Listas_enlasadas/Examen_1_estalinbenitez/Canario.cpp
+	"Canario.h"
+
+1400175599 /home/estalinbenitez/Desktop/Programando en C++/sdlll/Listas_enlasadas/Examen_1_estalinbenitez/Canario.h
+	"Animal.h"
+	<iostream>
+
+1400175599 source:/home/estalinbenitez/Desktop/Programando en C++/sdlll/Listas_enlasadas/Examen_1_estalinbenitez/Perro.cpp
+	"Perro.h"
+
+1400175302 /home/estalinbenitez/Desktop/Programando en C++/sdlll/Listas_enlasadas/Examen_1_estalinbenitez/Perro.h
+	"Animal.h"
+	<iostream>
+
+1400177469 source:/home/estalinbenitez/Desktop/Programando en C++/sdlll/Listas_enlasadas/Examen_1_estalinbenitez/Lora.cpp
+	"Lora.h"
+
+1400177000 /home/estalinbenitez/Desktop/Programando en C++/sdlll/Listas_enlasadas/Examen_1_estalinbenitez/Lora.h
+	"Animal.h"
+	<iostream>
+
+1400210863 source:/home/estalinbenitez/Desktop/Programando en C++/sdlll/Listas_enlasadas/Examen_1_estalinbenitez/Lista.cpp
+	"Lista.h"
+
+1400210864 /home/estalinbenitez/Desktop/Programando en C++/sdlll/Listas_enlasadas/Examen_1_estalinbenitez/Lista.h
+	"Animal.h"
+	"Perro.h"
+	"Lora.h"
+	"Canario.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
